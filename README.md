@@ -89,6 +89,17 @@ npm run preview
 - Heatmap overlays (kills, deaths, traffic)
 - Legend panel for path/marker semantics
 
+## Walkthrough
+
+1. Select a **Map** from the dropdown (AmbroseValley, GrandRift, Lockdown)
+2. Optionally filter by **Date** (February 10–14)
+3. Select a **Match** from the dropdown — the minimap loads with all player data
+4. Drag the **timeline slider** to any point or hit **Play** to watch the match unfold
+5. Toggle **Show Bots** to hide/show bot paths (dashed gray) vs human paths (solid colored)
+6. Use **Event Filters** to show/hide Kill, Death, Loot, Storm events as markers on the map
+7. Click **Kills / Deaths / Traffic** to overlay heatmaps showing density zones
+8. Hover any event marker to see event type and timestamp
+
 ## Environment Variables
 
 No environment variables are required.
